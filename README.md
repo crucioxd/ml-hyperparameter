@@ -10,26 +10,6 @@ This repository contains my machine learning models implementation code using st
 # Mode of Execution Used <img src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0" title="PyCharm" alt="PyCharm" width="40" height="40">&nbsp;<img src="https://raw.githubusercontent.com/github/explore/968d1eb8fb6b704c6be917f0000283face4f33ee/topics/streamlit/streamlit.png" title="Streamlit" alt="Streamlit" width="40" height="40">
 
 
-<h2>Pycharm</h2>
-
---> Visit the official website of pycharm: <a href="https://www.jetbrains.com/pycharm/"><img src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0" title="PyCharm" alt="PyCharm" width="40" height="40"></a><br><br>
---> Download according to the platform that will be used like Linux, Macos or Windows.<br><br>
---> Two versions of Pycharm are avilable-
-1. Community version <br><br>
---> Community version is open source and we can use it for free without any paid plan.<br><br>
---> We can download this at the end of pycharm website.<br><br>
---> After downloading community version we can directly follow the setup wizard and it will be setup.<br><br>
-2.  Professional Version.<br><br>
---> This is available at the top of website, we can directly download from there.<br><br>
---> After downloading professional version, follow the below steps.<br><br>
---> Follow the setup wizard and sign up for the free version (trial version) or else continue with the premium or paid version.<br>
-
-### Using Pycharm
---> First, in pycharm we have the concept of virtual environment. In virtual environment we can install all the required libraries or frameworks.<br><br>
---> Each project has its own virtual environment, so thath we can install requirements like Libraries or Framworks for that project only.<br><br>
---> After this we can create a new file, various file types are available in pycharm like script files, text files and also Jupyter Notebooks.<br><br>
---> After selecting the required file type, we can continue the execution of that file by saving it and using this shortcut shift+F10 (In Windows).<br><br>
---> Output is given in Console while installation happens in terminal in Pycharm.
 
 ## Streamlit Server
 
@@ -250,10 +230,3 @@ informative statistical graphics.</li>
 
 ---
 
-## Thanks for Visiting 😄
-
-- Drop a 🌟 if you find this repository useful.<br><br>
-- If you have any doubts or suggestions, feel free to reach me.<br><br>
-📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
-<a href ="mailto:rawatmadhurima@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
-- **Contribute and Discuss:** Feel free to open <a href= "https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/issues">issues 🐛</a>, submit <a href = "https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/pulls">pull requests 🛠️</a>, or start <a href = "https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/discussions">discussions 💬</a> to help improve this repository!
